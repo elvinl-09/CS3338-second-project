@@ -1,0 +1,63 @@
+commit 9e04d3c2634fa1d41ca4e3fe69cdc3f3551cc0bb
+Merge: 007e0ff 94e5273
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 10 20:37:31 2026 -0700
+
+    Resolve index-fix merge conflict
+    
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit 94e527324788a1b53675ccc0913a92c08d20fe56
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 10 20:36:27 2026 -0700
+
+    Add favorite game
+    
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit 007e0ff5e77f3b207545aef58cf0754d165be55e
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 10 20:32:53 2026 -0700
+
+    Add favorite food
+    
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit f17e915d830d6a89fc28a79f9e9b039e8b2c4717
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 10 20:31:49 2026 -0700
+
+    Add about and interests sections
+    
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit b192485c91cb9dabf9ca2b5d61f4a77fa00c8cb1
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 10 20:29:05 2026 -0700
+
+    Add project README
+    
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit a51aa250fe5358dd53253bb9d0f11cb61b442e3e
+Merge: 1d2bfc0 1b78c37
+Author: elvinl-09 <efunesl@calstatela.edu>
+Date:   Thu Sep 10 20:20:13 2026 -0700
+
+    Merge pull request #1 from elvinl-09/info-fill
+    
+    Fill in personal information
+
+commit 1b78c373845b62d1b4358fbcdcfa114e343abb4b
+Author: Elvin Funes-Lobos <elvinfunes@Mac.lan>
+Date:   Thu Sep 10 20:15:15 2026 -0700
+
+    Fill in personal information
+    
+    Co-authored-by: Copilot App <223556219+Copilot@users.noreply.github.com>
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
